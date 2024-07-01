@@ -1,4 +1,10 @@
 ### TAREA EN CLASE
+### 
+
+TCS13 - Subconsultas event
+
+
+
 
 ### 1. Obtener los miembros cuya edad es mayor que el promedio de las edades de todos los miembros
 
